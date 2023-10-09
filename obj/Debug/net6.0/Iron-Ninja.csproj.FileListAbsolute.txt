@@ -1,0 +1,15 @@
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.exe
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.deps.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.runtimeconfig.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.csproj.AssemblyReference.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.AssemblyInfoInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.AssemblyInfo.cs
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.csproj.CoreCompileInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\refint\Iron-Ninja.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.genruntimeconfig.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Iron-Ninja\obj\Debug\net6.0\ref\Iron-Ninja.dll
